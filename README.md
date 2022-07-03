@@ -15,13 +15,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam01102002&layout=compact)](https://github.com/anupam01102002)
 
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anupam-anand-4b7b57204/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anupam-anand-4b7b57204/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/anupamanand01/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/anupamanand01/#gh-dark-mode-only)
-
 ### Tech & Tools Preference 💻
 
 ---
