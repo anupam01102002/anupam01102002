@@ -8,7 +8,8 @@
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anupam01102002}.${your.repo.id}) -->
 <br>
-### Hi There👋
+
+### Hi there 👋
 
 [![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam01102002&&show_icons=true)](https://github.com/anupam01102002)
 <br>
