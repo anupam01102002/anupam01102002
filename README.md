@@ -11,8 +11,8 @@
 [![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam01102002&&show_icons=true)](https://github.com/anupam01102002)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam01102002&layout=compact)](https://github.com/anupam01102002)
-<!-- 
-[![Anupam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anupam01102002)](https://github.com/anupam01102002) -->
+
+[![Anupam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anupam01102002)](https://github.com/anupam01102002) 
 <br>
 
 ### Tech & Tools Preference 💻
