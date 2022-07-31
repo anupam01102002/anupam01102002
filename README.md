@@ -5,6 +5,7 @@
 - 📫 How to reach me- aanand20@iitk.ac.in
 - 🖇️ Linkedin- https://www.linkedin.com/in/anupam-anand-4b7b57204/
 - 🖥️ Behance- https://www.behance.net/foreverknight
+- 👨‍💻 Replit- https://replit.com/@anupamanand5
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anupam01102002}.${your.repo.id}) -->
 <br>
