@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anupam anand
 - 👀 I’m interested in Coding, Graphic Designing, Gaming
-- 🌱 I’m currently learning Web Development and python
+- 🌱 I’m currently learning Web Development, python and flutter
 - 💞️ I’m looking to collaborate with Tech Companies For Intern or Job Oppurtunities
 - 📫 How to reach me- aanand20@iitk.ac.in
 - 🖇️ Linkedin- https://www.linkedin.com/in/anupam-anand-4b7b57204/
