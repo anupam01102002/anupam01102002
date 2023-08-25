@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @anupam anand
+<h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </h1>
+
 - 👀 I’m interested in Coding, Graphic Designing, Gaming, App Development, ML
 - 🌱 I’m currently learning Web Development, python, flutter, Machine Learning
 - 💞️ I’m looking to collaborate with Tech Companies For Intern or Job Oppurtunities
@@ -10,7 +11,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${anupam01102002}.${your.repo.id}) -->
 <br>
 
-### Hi there 👋
 ## Projects
 <p align="center"> working on this section </p>
 <br />
