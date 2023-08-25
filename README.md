@@ -23,27 +23,20 @@
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
-
+ ![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
 <br>
 #### CSS Framework/Library/Pre-processors
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 <br>
 #### JS Framework/Library
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
 <br>
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 <br>
 #### Backend
-![Node.js](https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF)
-
+![Node.js](https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF)
 <br>
 #### Web Hosting
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
@@ -56,8 +49,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 #### Version Control 
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF)
 <br>
 #### Other Languages I know
  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
