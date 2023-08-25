@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </h1>
+<h1 align="center"> Hi 👋🏻, I'm Anupam Anand </h1>
 
 - 👀 I’m interested in Coding, Graphic Designing, Gaming, App Development, ML
 - 🌱 I’m currently learning Web Development, python, flutter, Machine Learning
